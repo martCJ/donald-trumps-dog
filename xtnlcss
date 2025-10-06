@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <h1>This is a heading</h1>
+    <h1>this heading is the same because it is also h1</h1>
+    <h2>this heading is different because it is tagged h2, so the cs designated the other header doesn't apply</h2>
+    <p>The css file referenced for the styles here <mark>must</mark> be in the same file as the html.</p>
+    <hr>
+    <p> Also, css files <mark>must</mark> be saved with a .css extension. e.g. <i>styles.css</i></p>
+    <h3> this is paragraph 3</h3>
+
+</body>
+
+</html>
